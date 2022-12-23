@@ -1,0 +1,11 @@
+2022-12-23 07:10:17,251 - simpleExample - CRITICAL - critical message
+2022-12-23 07:11:15,186 - simpleExample - DEBUG - debug message
+2022-12-23 07:11:15,187 - simpleExample - INFO - info message
+2022-12-23 07:11:15,187 - simpleExample - WARNING - warn message
+2022-12-23 07:11:15,187 - simpleExample - ERROR - error message
+2022-12-23 07:11:15,187 - simpleExample - CRITICAL - critical message
+2022-12-23 07:11:22,502 - simpleExample - DEBUG - debug message
+2022-12-23 07:11:22,502 - simpleExample - INFO - info message
+2022-12-23 07:11:22,503 - simpleExample - WARNING - warn message
+2022-12-23 07:11:22,503 - simpleExample - ERROR - error message
+2022-12-23 07:11:22,503 - simpleExample - CRITICAL - critical message

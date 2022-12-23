@@ -1,0 +1,8 @@
+DEBUG:root:Ran with args: ('Davron', 25), and kwargs: {}
+DEBUG:root:Ran with args: ('Davron', 25), and kwargs: {}
+DEBUG:root:Ran with args: ('Davron', 25), and kwargs: {}
+DEBUG:root:Ran with args: ('Davron', 25), and kwargs: {}
+DEBUG:root:Ran with args: ('Davron', 25), and kwargs: {}
+INFO:root:Ran with args: ('Davron', 25), and kwargs: {}
+WARNING:root:Ran with args: ('Davron', 25), and kwargs: {}
+WARNING:root:Ran with args: ('Davron', 25), and kwargs: {}

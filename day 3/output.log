@@ -1,0 +1,16 @@
+2022-12-23 07:04:20,970 [INFO] This is an info-level log message
+2022-12-23 07:04:20,970 [WARNING] This is a warning-level message
+2022-12-23 07:04:20,971 [ERROR] This is an error-level message
+2022-12-23 07:04:20,971 [CRITICAL] This is a critical-level message
+2022-12-23 07:04:34,609 [INFO] This is an info-level log message
+2022-12-23 07:04:34,609 [WARNING] This is a warning-level message
+2022-12-23 07:04:34,609 [ERROR] This is an error-level message
+2022-12-23 07:04:34,610 [CRITICAL] This is a critical-level message
+2022-12-23 07:04:36,044 [INFO] This is an info-level log message
+2022-12-23 07:04:36,044 [WARNING] This is a warning-level message
+2022-12-23 07:04:36,044 [ERROR] This is an error-level message
+2022-12-23 07:04:36,045 [CRITICAL] This is a critical-level message
+2022-12-23 07:04:43,914 [INFO] This is an info-level log message
+2022-12-23 07:04:43,915 [WARNING] This is a warning-level message
+2022-12-23 07:04:43,915 [ERROR] This is an error-level message
+2022-12-23 07:04:43,915 [CRITICAL] This is a critical-level message
